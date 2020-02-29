@@ -54,11 +54,13 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | phobos.io |   |All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
 | Proofpoint |   |Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
 | US BanK |   |?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
+| Rainier Cyber (see StrataCore) |   | Some Jobs|   | Full remote (at StrataCore and with recruiting clients) | [Link!](https://www.stratacore.com/rainier-cyber-current-openings) |?|
 | RiskIQ |   |Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
 | ReversingLabs |   |?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://reversinglabs.workable.com) |?|
 | Salesforce |   |?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Cyber-Detection--Response----Threat-Engineers_JR15818-1) |?|
 | SecurityScoreCard |   |Some areas| Full remote | [Link!](https://securityscorecard.com/company/careers) | [Link!](https://securityscorecard.com/company/careers) |?|
 | Semmle |   |Some areas| Full remote | Job posting | [Link!](https://semmle.com/careers) |?|
+| StrataCore |   | Some Jobs|   | Full remote (at StrataCore and with recruiting clients) | [Link!](https://www.stratacore.com/rainier-cyber-current-openings) |?|
 | tenable |   |Some Jobs| Full remote | [Link](https://careers.tenable.com/jobs/search?page=1&city%5B%5D=Remote&query=) | [Link!](https://careers.tenable.com) |?|
 | tumblr |   |Some areas| Full remote | Twitter | [Link!](https://www.tumblr.com/jobs) |?|
 | TwelveSec |   |All| Full remote | [Link!](https://www.twelvesec.com/jobs/) | [Link!](https://twelvesec.workable.com/) |?|
