@@ -25,10 +25,11 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | BlackKnight |   | | Some areas | At a job posting page | [Link!](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) |?|
 | BreakPoint Labs  |   | Some | Full remote | [Link!](https://twitter.com/0xcc_labs/status/1128640482635079680) | [Link!](http://breakpoint-labs.com/opportunities.php) |?|
 | Canonical  |   | Some | Full remote | At a job posting | [Link!](https://www.canonical.com/careers/all-vacancies) |?|
-| Cisco Talos |  | Some | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |?|
+| Cisco Talos |  | All | Full remote | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |?|
 | Cisco  |   | Some | Full remote | [Link!](https://jobs.cisco.com/jobs/SearchJobs) | [Link!](https://jobs.cisco.com/jobs/SearchJobs) |?|
 | Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link!](https://www.crowdstrike.com/careers/) | [Link!](https://www.crowdstrike.com/careers/) |?|
 | Coalfire Labs	 |   |?| Full remote / Remote US | [Link!](https://www.coalfire.com/Careers) | [Link!](https://www.coalfire.com/Careers) |?|
+|Corelight|  | Multiple | Full Remote | [Corelight Career Page](https://www.corelight.com/company/careers#career-opportunities) | [Link!](https://corelight.com/company/careers/1539941), [Link!](https://corelight.com/company/careers/1854588/), [Link!](https://corelight.com/company/careers/1443209/) | ? |
 | DCSO |   |All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
 | Dell Secure Works |   |Some| Regional remote | [Link!](https://jobs.dell.com) | [Link!](https://jobs.dell.com) |?|
 | Dow Jones |   |On a case by case basis| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://dowjones.jobs/) |?|
@@ -72,6 +73,9 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 Places to find remote job postings: 
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
 * [Ninjajobs](https://ninjajobs.org/)
+
+Other lists
+* [yanirs/established-remote](https://github.com/yanirs/established-remote)
 
 ## FAQ
 
