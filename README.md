@@ -17,6 +17,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 
 ## List
 
+
 Company | Description | Areas hiring remote | Full remote / Regional remote | Source | Job Page Link | 
 |---|---|---|---|---|---|
 | Accenture | Some jobs may require a Security Clearance  | AI, Cloud, Corporate, Intelligence | Remote Eligible | | [Link](https://smartafs.my.site.com/careers/s/), perform keyword search for 'Remote' |
@@ -68,6 +69,7 @@ Company | Description | Areas hiring remote | Full remote / Regional remote | So
 | VMRay | use Location dropdown to filter by Remote | Corporate | TBD | [Link](https://careers.vmray.com/en/recruiting/) | [Link](https://www.vmray.com/careers/jobs/)  |
 | Wells Fargo |   | Various | Hyrbird and Remote options | [Link](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link](https://www.wellsfargojobs.com/en/jobs/?search=remote&country=) |
 | Wikimedia Foundation |   | Various | Full remote | [Link](https://wikimediafoundation.org/about/jobs/) | [Link](https://wikimediafoundation.org/about/jobs/) |
+
 
 Places to find remote job postings: 
 * [remote\|InfoSec Jobs](https://remoteok.com/remote-infosec-jobs)
