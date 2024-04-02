@@ -34,6 +34,8 @@ Company | Description | Areas hiring remote | Full remote / Regional remote | So
 | Coalfire Labs	 |   | Advisory Services, Corporate, Managed Services, Pen Testing| Full remote | [Link](https://www.coalfire.com/about/careers) | [Link](https://jobs.lever.co/coalfire?workplaceType=remote) |
 | DCSO | Company is in Germany | All | Full remote |  | [English](https://www.dcso.de/en/talented-people/stellenangebote/) [Deutsch](https://www.dcso.de/talente/stellenangebote/) |
 | Dell Secure Works |   | Most | Regional remote | [Link](https://jobs.dell.com) | [Link](https://jobs.dell.com/search-jobs/Remote/375/2/1000000000100/0/0/50/2) |
+| Dice |   | Most | Remote | [Link](https://jobs.dell.com) | [Link](
+https://www.dice.com/jobs?location=Remote,%20OR%2097458,%20USA&latitude=43.00594549999999&longitude=-123.8925908&countryCode=US&locationPrecision=City&radius=30&radiusUnit=mi&page=1&pageSize=20&language=en) |
 | Dow Jones |   | Some | Regional Remote | Career Page | [Link](https://dowjones.jobs/jobs/?q=remote) |
 | Dragos |   |Some| US remote | [Link](https://www.dragos.com/careers/) | [Link](https://careers.dragos.com/jobs) |
 | Elastic |   | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/) | [Link](https://jobs.elastic.co/#/) |
